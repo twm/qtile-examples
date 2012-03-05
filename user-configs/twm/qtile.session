@@ -1,0 +1,6 @@
+[GNOME Session]
+Name=Qtile Session
+RequiredComponents=gnome-settings-daemon;
+RequiredProviders=windowmanager;notifications;
+DefaultProvider-windowmanager=qtile
+DefaultProvider-notifications=notify-osd

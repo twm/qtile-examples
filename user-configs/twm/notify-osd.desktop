@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Notify OSD
+Exec=/usr/lib/notify-osd/notify-osd
+Type=Application
+NoDisplay=true
